@@ -1,1 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+       <title style="text-align: center;">
+         practice 3
+    </title>
+    <h1 style="text-align: center; color: rgb(255, 0, 98);">
+         Multiple Contents Writting 
+    </h1>
 
+    <img width="500px" src="https://unsplash.com/photos/traditional-chinese-landscape-painting-with-a-pavilion-VKagibOTZRY">
+
+</head>
+<body style="background-color: rgb(241, 242, 224);">
+    <h3 style="color: blueviolet;">
+        The Importance of Reading
+    </h3>
+    <p class="Content1">
+        <style>
+            .content1{
+                text-align: left; font-size: medium; font-family: sans-serif; color: darkblue;
+            }
+        </style>
+        Reading is one of the most effective ways to build knowledge and strengthen the mind. It exposes us to new ideas, cultures, and ways of thinking that we may never experience in everyday life. When students read regularly, they improve their vocabulary, writing skills, and ability to communicate clearly.<br>
+        Books also spark imagination and creativity, allowing readers to picture different worlds and characters. Reading helps improve focus because it trains the brain to follow information for a longer period. It also reduces stress by giving the mind a peaceful escape from daily worries.<br>
+        Whether it is fiction, nonfiction, or educational material, reading supports personal growth and academic success, making it a habit worth developing at a young age.
+    </p>
+    <h3 style="color: darkorange;">
+        Benefits of Physical Exercise
+    </h3>
+    <p class="Content2">
+        <style>
+            .content2{
+                text-align: left; font-size: medium; font-family: verdana; color: darkred;
+            }
+        </style>
+        Physical exercise plays an important role in maintaining overall health and well-being. Regular movement strengthens the heart, muscles, and bones, leading to better stamina and energy throughout the day.<br>
+        xercise also helps control weight by burning excess calories and boosting metabolism. Along with physical benefits, it has a strong impact on mental health. When we exercise, the body releases hormones that reduce stress and improve mood.<br>
+        Students who play sports develop teamwork, discipline, and leadership skills that help them in school and life. Exercise improves sleep, sharpens concentration, and lowers the risk of many health problems. Even simple daily activities, like walking or stretching, can make a big difference over time.
+    </p>
+    <h3 style="color: darkgreen;">
+        <i> Role of Technology in Education </i>
+    </h3>
+    <p class="Content3">
+        <style>
+            .content3{
+                text-align: left; font-size: medium; font-family: aptos; color: darkgreen;
+            }
+        </style>
+        Technology has changed the way students learn and teachers teach. With access to computers, tablets, and the internet, information is available anytime and anywhere.<br>
+        Digital tools make difficult topics easier to understand through videos, animations, and interactive lessons. Online classes allow students to continue learning even when they cannot be physically present at school.<br>
+        Educational apps support self-paced study, helping students practice subjects at their own level and speed. Teachers can also use technology to create better lesson plans, track student performance, and provide quick feedback.<br>
+        Technology connects learners with global knowledge, broadens their understanding, and prepares them for modern careers. When used responsibly, it makes education more flexible, engaging, and effective.
+    </p>   
+    </body>
+</html>
