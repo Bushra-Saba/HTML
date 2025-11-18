@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    /* p {
+      color: blueviolet;
+      font-size: 18px;
+    } */
+     .paragraph1{
+       color: blueviolet;
+      font-size: 18px; 
+     }
+     .second-paragraph{
+          color: rgb(70, 226, 43);
+      font-size: 12px; 
+      background-color: rgb(0, 0, 0);
+     }
+     /* .third-paragraph{
+          color: rgb(70, 226, 43);
+      font-size: 12px; 
+      background-color: black;
+     } */
+  </style>
+</head>
+<body>
+  <!-- <h1>
+    This is heading 1
+</h1> -->
+  <h2 style="color: blue">This is heading 2</h2>
+  <!-- 
+<h4>
+    This is heading 4
+</h4>
+<h5>
+    This is heading 5
+</h5>
+<h6>
+    This is heading 6
+</h6> -->
+
+  <p class="paragraph1">
+    Paragraph writing involves crafting a group of related sentences that
+    develop a single main idea. A well-structured paragraph typically includes a
+    topic sentence to introduce the main idea, several supporting sentences with
+    details and examples, and a concluding sentence to summarize or transition.
+    Proper structure and flow, along with a clear focus on one topic, help
+    organize writing and guide the reader.
+  </p>
+  <h3 style="color: rgb(255, 0, 0)">This is heading 3</h3>
+  <p class="second-paragraph">
+    Paragraph writing involves crafting a group of related sentences that
+    develop a single main idea. A well-structured paragraph typically includes a
+    topic sentence to introduce the main idea, several supporting sentences with
+    details and examples, and a concluding sentence to summarize or transition.
+    Proper structure and flow, along with a clear focus on one topic, help
+    organize writing and guide the reader.
+  </p>
+  <p class="second-paragraph">
+    <i
+      ><b
+        >Paragraph writing involves crafting a group of related sentences that
+        develop a single main idea. A well-structured paragraph typically
+        includes a topic sentence to introduce the main idea, several supporting
+        sentences with details and examples, and a concluding sentence to
+        summarize or transition. Proper structure and flow, along with a clear
+        focus on one topic, help organize writing and guide the reader.
+      </b></i
+    >
+  </p>
+
+  <img src="C:\Users\Usman%20Sarwar\Desktop\web\assets\portfolioimg.png" alt="image" >
+</body>
