@@ -7,9 +7,10 @@
     <h1 style="text-align: center; color: rgb(255, 0, 98);">
          Multiple Contents Writting 
     </h1>
-
-    <img width="500px" src="https://unsplash.com/photos/traditional-chinese-landscape-painting-with-a-pavilion-VKagibOTZRY">
-
+        <!--
+        <img width="500px" src="https://images.unsplash.com/photo-1691234567890-abcdef.jpg" alt="Chinese landscape painting">
+        -->
+        <img width="300px" src="Pictures\pic 1.jpg">
 </head>
 <body style="background-color: rgb(241, 242, 224);">
     <h3 style="color: blueviolet;">
